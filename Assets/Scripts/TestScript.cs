@@ -7,12 +7,12 @@ public class TestScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("An expert programmer wrote this line of code.");
+        Debug.Log("An expert programmer wrote this line of code.");//Added semicolon to end of line. 
     }
 }
